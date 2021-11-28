@@ -2,38 +2,43 @@
     "product": [
         {
             "id": "P1",
-            "name": "Pencil",
+            "name": "Pencil 1",
             "store_name": "General book store",
+            "price": 10,
             "rating": 5,
-            "address": "Delhi, India"
+            "address": "ABC Road, India"
         },
         {
             "id": "P2",
-            "name": "Pencil",
-            "store_name": "General book store",
-            "rating": 5,
-            "address": "Delhi, India"
+            "name": "Pencil 2",
+            "store_name": "National Store",
+            "price": 9.5,
+            "rating": 4,
+            "address": "XYZ place, India"
         },
         {
             "id": "P3",
-            "name": "Pencil",
-            "store_name": "General book store",
+            "name": "Pencil 3",
+            "store_name": "Jio market",
+            "price": 8,
             "rating": 5,
             "address": "Delhi, India"
         },
         {
             "id": "P4",
-            "name": "Pencil",
-            "store_name": "General book store",
-            "rating": 5,
+            "name": "Pencil 2",
+            "store_name": "Online shoppee",
+            "price": 7,
+            "rating": 3,
             "address": "Delhi, India"
         },
         {
             "id": "P5",
-            "name": "Pencil",
-            "store_name": "General book store",
+            "name": "Pencil 1",
+            "store_name": "Local Shop",
+            "price": 12,
             "rating": 5,
-            "address": "Delhi, India"
+            "address": "unnamed street, India"
         }
     ]
 }
