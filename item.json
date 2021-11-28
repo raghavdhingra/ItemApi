@@ -1,11 +1,8 @@
 {
-  "products": [
-    {
-      "id": "P1",
-      "name": "Pencil",
-      "store_name": "General book store",
-      "rating": 5,
-      "address": "Delhi, India"
-    }
-  ]
+    "key": [
+        545,"fds",
+        {
+            "key1":["iasjd",5]
+        }
+    ]
 }
