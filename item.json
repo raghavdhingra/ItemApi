@@ -6,7 +6,11 @@
             "store_name": "General book store",
             "price": 10,
             "rating": 5,
-            "address": "ABC Road, India"
+            "address": "ABC Road, India",
+            "_geo": {
+                "lat": 29.400,
+                "lng": 76.980
+            }
         },
         {
             "id": "P2",
@@ -14,7 +18,11 @@
             "store_name": "National Store",
             "price": 9.5,
             "rating": 4,
-            "address": "XYZ place, India"
+            "address": "XYZ place, India",
+            "_geo": {
+                "lat": 30.000,
+                "lng": 77.000
+            }
         },
         {
             "id": "P3",
@@ -22,7 +30,11 @@
             "store_name": "Jio market",
             "price": 8,
             "rating": 5,
-            "address": "Delhi, India"
+            "address": "Delhi, India",
+            "_geo": {
+                "lat": 28.780,
+                "lng": 75.465
+            }
         },
         {
             "id": "P4",
@@ -30,7 +42,11 @@
             "store_name": "Online shoppee",
             "price": 7,
             "rating": 3,
-            "address": "Delhi, India"
+            "address": "Delhi, India",
+            "_geo": {
+                "lat": 29.100,
+                "lng": 73.543
+            }
         },
         {
             "id": "P5",
@@ -38,7 +54,35 @@
             "store_name": "Local Shop",
             "price": 12,
             "rating": 5,
-            "address": "unnamed street, India"
+            "address": "unnamed street, India",
+            "_geo": {
+                "lat": 29.200,
+                "lng": 75.900
+            }
+        },
+        {
+            "id": "B1",
+            "name": "Book 1",
+            "store_name": "Public Shop",
+            "price": 200,
+            "rating": 4,
+            "address": "anonymous colony, India",
+            "_geo": {
+                "lat": 17.500,
+                "lng": 60.900
+            }
+        },
+        {
+            "id": "B2",
+            "name": "Book 2",
+            "store_name": "My Shop",
+            "price": 150,
+            "rating": 5,
+            "address": "shop here palace, India",
+            "_geo": {
+                "lat": 76.9532579,
+                "lng": 29.3942391
+            }
         }
     ]
 }
